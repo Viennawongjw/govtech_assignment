@@ -1,0 +1,56 @@
+[
+  {
+    "_note": "Hand-labelled reference for the 2024 specimen Paper 1, using IDs from the real syllabus parse (results.json). Labels are my own best reading of each question against the syllabus — not a trained marker's. For a real deployment we would use multiple markers and measure inter-annotator agreement; this set is enough to demonstrate the evaluation method end-to-end.",
+    "_id_provenance": "Unit and AO IDs match exam_analyzer/results.json from the run with --exam sample_data/paper.pdf --syllabus sample_data/syllabus.pdf."
+  },
+  {
+    "question_id": "Q1a",
+    "content_units": ["unit_nazi_germany", "unit_wwii_europe_outbreak"],
+    "assessment_objectives": ["ao_source_interpretation_evaluation", "ao_deploy_knowledge"],
+    "rationale": "Source A is about Hitler's foreign policy ambitions — sits between Nazi Germany and the road to WWII in Europe. Evaluating utility requires both source skills and contextual knowledge."
+  },
+  {
+    "question_id": "Q1b",
+    "content_units": ["unit_wwii_europe_outbreak"],
+    "assessment_objectives": ["ao_source_interpretation_evaluation"],
+    "rationale": "Rothermere letter from the appeasement era. Purpose-inference is a source-skill question."
+  },
+  {
+    "question_id": "Q1c",
+    "content_units": ["unit_wwii_europe_outbreak"],
+    "assessment_objectives": ["ao_source_interpretation_evaluation"],
+    "rationale": "Cross-source evaluation in the appeasement context. Without seeing Source C/D content, the unit label is a best guess — exactly where the model's 0.4 confidence is well-placed."
+  },
+  {
+    "question_id": "Q1d",
+    "content_units": ["unit_wwii_europe_outbreak"],
+    "assessment_objectives": ["ao_source_interpretation_evaluation", "ao_deploy_knowledge"],
+    "rationale": "Cartoonist's stance on Chamberlain's appeasement: source interpretation plus knowledge of the appeasement policy."
+  },
+  {
+    "question_id": "Q1e",
+    "content_units": ["unit_wwii_europe_outbreak"],
+    "assessment_objectives": ["ao_source_interpretation_evaluation", "ao_deploy_knowledge", "ao_construct_explanation"],
+    "rationale": "8-mark synthesis: weigh sources, deploy own knowledge of appeasement, construct an argument."
+  },
+  {
+    "question_id": "Q2a",
+    "content_units": ["unit_dutch_indonesia_1870s_1920s"],
+    "assessment_objectives": ["ao_deploy_knowledge", "ao_construct_explanation"]
+  },
+  {
+    "question_id": "Q2b",
+    "content_units": ["unit_french_vietnam_1870s_1920s"],
+    "assessment_objectives": ["ao_deploy_knowledge", "ao_construct_explanation"]
+  },
+  {
+    "question_id": "Q3",
+    "content_units": ["unit_paris_peace_conference"],
+    "assessment_objectives": ["ao_deploy_knowledge", "ao_construct_explanation"]
+  },
+  {
+    "question_id": "Q4",
+    "content_units": ["unit_wwii_asia_pacific_outbreak"],
+    "assessment_objectives": ["ao_deploy_knowledge", "ao_construct_explanation"]
+  }
+]

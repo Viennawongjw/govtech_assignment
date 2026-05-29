@@ -1,0 +1,373 @@
+{
+  "questions": [
+    {
+      "id": "Q1a",
+      "number": "1(a)",
+      "marks": 6,
+      "command": "How useful",
+      "source_based": true,
+      "text": "Study Source A. How useful is this source as evidence of Hitler's foreign policy ambitions? Explain your answer."
+    },
+    {
+      "id": "Q1b",
+      "number": "1(b)",
+      "marks": 5,
+      "command": "Why do you think",
+      "source_based": true,
+      "text": "Study Source B. Why do you think Rothermere wrote this letter? Explain your answer."
+    },
+    {
+      "id": "Q1c",
+      "number": "1(c)",
+      "marks": 6,
+      "command": "How far does",
+      "source_based": true,
+      "text": "Study Sources C and D. How far does Source D prove that Source C was wrong? Explain your answer."
+    },
+    {
+      "id": "Q1d",
+      "number": "1(d)",
+      "marks": 5,
+      "command": "Do you think",
+      "source_based": true,
+      "text": "Study Source E. Do you think the cartoonist would have agreed with Chamberlain's policy of appeasement? Explain your answer."
+    },
+    {
+      "id": "Q1e",
+      "number": "1(e)",
+      "marks": 8,
+      "command": "How far do these sources support",
+      "source_based": true,
+      "text": "Study all the sources. 'Chamberlain was right to follow a policy of appeasement.' How far do these sources support this view? Use the sources and your knowledge to explain your answer."
+    },
+    {
+      "id": "Q2a",
+      "number": "2(a)",
+      "marks": 10,
+      "command": "How far do you agree",
+      "source_based": false,
+      "text": "'The main reason for the Dutch colonisation of Indonesia from the 1870s was to obtain raw materials.' How far do you agree with this statement? Explain your answer."
+    },
+    {
+      "id": "Q2b",
+      "number": "2(b)",
+      "marks": 10,
+      "command": "How far do you agree",
+      "source_based": false,
+      "text": "'The main reason for the French colonisation of Vietnam from the 1870s was to obtain raw materials.' How far do you agree with this statement? Explain your answer."
+    },
+    {
+      "id": "Q3",
+      "number": "3",
+      "marks": 10,
+      "command": "How far do you agree",
+      "source_based": false,
+      "text": "'Germans hated the Treaty of Versailles because it blamed them for starting World War I.' How far do you agree with this statement? Explain your answer."
+    },
+    {
+      "id": "Q4",
+      "number": "4",
+      "marks": 10,
+      "command": "How far do you agree",
+      "source_based": false,
+      "text": "'US policy towards Japan in the 1930s was responsible for the outbreak of World War II in the Asia-Pacific.' How far do you agree with this statement? Explain your answer."
+    }
+  ],
+  "syllabus": {
+    "content_units": [
+      {
+        "id": "unit_sea_overview_pre1870",
+        "name": "Overview of Southeast Asia before 1870",
+        "description": "A non-examinable introduction to the geography, peoples, political systems, and European interest in Southeast Asia prior to 1870.",
+        "evidence": "Island and mainland Southeast Asia: Geography, people, political systems and the role of external influence"
+      },
+      {
+        "id": "unit_british_malaya_1870s_1920s",
+        "name": "British Malaya, 1870s\u20131920s",
+        "description": "Examines the extension of British control in Malaya, the transformation of its political, economic and social landscape, and local responses to colonial rule.",
+        "evidence": "Extension of British control in Malaya\u2026 Shift in British policy towards Malaya in 1870s"
+      },
+      {
+        "id": "unit_dutch_indonesia_1870s_1920s",
+        "name": "Dutch Indonesia, 1870s\u20131920s",
+        "description": "Covers the extension of Dutch control from Java to the Outer Islands, the transformation of Indonesia under Dutch rule, and local responses.",
+        "evidence": "Extension of Dutch control in Indonesia from Java to the Outer Islands"
+      },
+      {
+        "id": "unit_french_vietnam_1870s_1920s",
+        "name": "French Vietnam, 1870s\u20131920s",
+        "description": "Examines the extension of French control over Vietnam, the transformation of Vietnamese society and economy, and local responses to French rule.",
+        "evidence": "Extension of French control in Vietnam to Annam and Tonkin"
+      },
+      {
+        "id": "unit_paris_peace_conference",
+        "name": "Paris Peace Conference and Post-WWI Europe",
+        "description": "Studies the aims and terms of the Paris Peace Conference, the Treaty of Versailles, the redrawing of national boundaries, and attempts at collective security in the 1920s.",
+        "evidence": "Aims and terms of the Paris Peace Conference and its immediate impact on Europe"
+      },
+      {
+        "id": "unit_nazi_germany",
+        "name": "Case Study of Nazi Germany",
+        "description": "Examines the circumstances leading to the rise of Hitler and the Nazi Party, the consolidation of Nazi rule, and its political, economic and social policies.",
+        "evidence": "Circumstances leading to the rise and establishment of authoritarian rule in Germany"
+      },
+      {
+        "id": "unit_militarist_japan",
+        "name": "Case Study of Militarist Japan, 1920s\u20131930s",
+        "description": "Covers the rise of ultranationalist militarism in Japan, the weaknesses of democratic government, and the consolidation of military power and its policies.",
+        "evidence": "Circumstances leading to the rise and establishment of authoritarian regime in Japan"
+      },
+      {
+        "id": "unit_wwii_europe_outbreak",
+        "name": "Key Developments Leading to WWII in Europe",
+        "description": "Examines the ineffectiveness of the League of Nations, Germany's aggressive foreign policy, and the policy of appeasement that led to the outbreak of World War II in Europe.",
+        "evidence": "Key developments leading to the outbreak of World War II in Europe"
+      },
+      {
+        "id": "unit_wwii_asia_pacific_outbreak",
+        "name": "Key Developments Leading to WWII in the Asia-Pacific",
+        "description": "Covers Japan's expansionist foreign policy, worsening US-Japan relations, and the developments that led to the outbreak of World War II in the Asia-Pacific.",
+        "evidence": "Key developments leading to the outbreak of World War II in the Asia-Pacific"
+      },
+      {
+        "id": "unit_wwii_end",
+        "name": "Reasons for the End of World War II",
+        "description": "Analyses the strengths of the Allied powers and the military weaknesses of Germany and Japan that led to the end of World War II.",
+        "evidence": "Reasons for end of World War II\u2026 Strengths of the Allies\u2026 Military weaknesses of Germany and Japan"
+      },
+      {
+        "id": "unit_cold_war_origins_europe",
+        "name": "Origins and Development of the Cold War in Europe",
+        "description": "Examines the post-war emergence of the USA and USSR as superpowers, growing ideological mistrust, and the intensification of superpower rivalry in Europe.",
+        "evidence": "Origins and development of the Cold War in Europe\u2026 Growing mistrust between USA and USSR"
+      },
+      {
+        "id": "unit_korean_war",
+        "name": "Extension of the Cold War: Korean War, 1950\u20131953",
+        "description": "Studies the post-WWII developments in Korea, the outbreak and conduct of the Korean War, and its immediate aftermath on Cold War tensions.",
+        "evidence": "Extension of the Cold War outside Europe: Case study of Korean War, 1950\u20131953"
+      },
+      {
+        "id": "unit_vietnam_war",
+        "name": "Extension of the Cold War: Vietnam War, 1954\u20131975",
+        "description": "Examines the partition of Vietnam, escalation of conflict between North and South Vietnam, superpower involvement, and the aftermath of the war.",
+        "evidence": "Extension of the Cold War outside Europe: Case study of Vietnam War, 1954\u201375"
+      },
+      {
+        "id": "unit_british_malaya_decolonisation",
+        "name": "Decolonisation of British Malaya, 1945\u20131957",
+        "description": "Covers the impact of WWII on Malayan nationalism, British efforts at granting self-government, the communist insurgency, and the attainment of independence in 1957.",
+        "evidence": "British Malaya, 1945\u20131957\u2026 Attainment of independence in 1957"
+      },
+      {
+        "id": "unit_dutch_indonesia_decolonisation",
+        "name": "Decolonisation of Dutch Indonesia, 1945\u20131949",
+        "description": "Examines the impact of WWII on Indonesian nationalism, attempts to re-establish Dutch rule, Indonesian resistance, and the attainment of independence in 1949.",
+        "evidence": "Dutch Indonesia, 1945\u20131949\u2026 Attainment of independence in 1949"
+      },
+      {
+        "id": "unit_french_vietnam_decolonisation",
+        "name": "Decolonisation of French Vietnam, 1945\u20131954",
+        "description": "Covers the strengthening of Vietnamese nationalist movements after WWII, attempts at independence, French efforts to reassert control, and the Declaration of Independence in 1954.",
+        "evidence": "French Vietnam, 1945\u20131954\u2026 Declaration of Independence 1954"
+      },
+      {
+        "id": "unit_cold_war_end",
+        "name": "Decline of the USSR and End of the Cold War",
+        "description": "Examines the structural weaknesses of the Soviet command economy, external burdens, escalating US-USSR tensions in the 1980s, and the impact of Gorbachev's reforms on the collapse of the USSR.",
+        "evidence": "Decline of the USSR and the end of the Cold War\u2026 Impact of Gorbachev's economic and political reforms"
+      }
+    ],
+    "assessment_objectives": [
+      {
+        "id": "ao_deploy_knowledge",
+        "name": "Deploy Knowledge",
+        "description": "Students select, organise and apply relevant historical knowledge appropriately within the context of the question.",
+        "evidence": "select, organise and use relevant historical knowledge in context"
+      },
+      {
+        "id": "ao_construct_explanation",
+        "name": "Construct Explanation and Communicate Historical Knowledge",
+        "description": "Students analyse and explain historical events using key historical concepts such as causation, change and continuity, and significance to reach reasoned conclusions.",
+        "evidence": "analyse and explain historical events\u2026 using key historical concepts (causation and consequence, change and continuity, significance)"
+      },
+      {
+        "id": "ao_source_interpretation_evaluation",
+        "name": "Interpret and Evaluate Source Materials",
+        "description": "Students interpret, evaluate and use a range of sources as historical evidence, including comprehending information, drawing inferences, comparing views, detecting bias, and drawing reasoned conclusions.",
+        "evidence": "interpret, evaluate and use a range of sources as evidence in their historical context"
+      }
+    ]
+  },
+  "mappings": [
+    {
+      "question_id": "Q1a",
+      "content_units": [
+        "unit_nazi_germany"
+      ],
+      "assessment_objectives": [
+        "ao_source_interpretation_evaluation"
+      ],
+      "confidence": 0.95,
+      "justification": "Question requires evaluating a source's utility as evidence of Hitler's foreign policy, a Nazi Germany topic using source analysis skills."
+    },
+    {
+      "question_id": "Q1b",
+      "content_units": [
+        "unit_wwii_europe_outbreak"
+      ],
+      "assessment_objectives": [
+        "ao_source_interpretation_evaluation"
+      ],
+      "confidence": 0.72,
+      "justification": "Inferring authorial purpose from a source requires evaluating bias and intent, a core source-interpretation skill; Rothermere's appeasement-era letter fits WWII Europe outbreak context."
+    },
+    {
+      "question_id": "Q1c",
+      "content_units": [
+        "unit_cold_war_origins_europe"
+      ],
+      "assessment_objectives": [
+        "ao_source_interpretation_evaluation"
+      ],
+      "confidence": 0.4,
+      "justification": "Cross-source evaluation question requires comparing and assessing sources as evidence, though specific topic is unidentifiable without source content."
+    },
+    {
+      "question_id": "Q1d",
+      "content_units": [
+        "unit_wwii_europe_outbreak"
+      ],
+      "assessment_objectives": [
+        "ao_source_interpretation_evaluation"
+      ],
+      "confidence": 0.95,
+      "justification": "Question requires interpreting a cartoon source to evaluate the cartoonist's stance on appeasement, a key WWII Europe outbreak topic."
+    },
+    {
+      "question_id": "Q1e",
+      "content_units": [
+        "unit_wwii_europe_outbreak"
+      ],
+      "assessment_objectives": [
+        "ao_source_interpretation_evaluation",
+        "ao_deploy_knowledge",
+        "ao_construct_explanation"
+      ],
+      "confidence": 0.97,
+      "justification": "Question directly addresses appeasement policy, a core topic in WWII Europe outbreak unit, requiring source evaluation and contextual knowledge."
+    },
+    {
+      "question_id": "Q2a",
+      "content_units": [
+        "unit_dutch_indonesia_1870s_1920s"
+      ],
+      "assessment_objectives": [
+        "ao_deploy_knowledge",
+        "ao_construct_explanation"
+      ],
+      "confidence": 0.95,
+      "justification": "Question requires explaining and evaluating reasons for Dutch colonisation of Indonesia, directly matching the 1870s\u20131920s Dutch Indonesia unit."
+    },
+    {
+      "question_id": "Q2b",
+      "content_units": [
+        "unit_french_vietnam_1870s_1920s"
+      ],
+      "assessment_objectives": [
+        "ao_deploy_knowledge",
+        "ao_construct_explanation"
+      ],
+      "confidence": 0.95,
+      "justification": "Question requires explaining and evaluating reasons for French colonisation of Vietnam, demanding knowledge deployment and causal analysis."
+    },
+    {
+      "question_id": "Q3",
+      "content_units": [
+        "unit_paris_peace_conference"
+      ],
+      "assessment_objectives": [
+        "ao_deploy_knowledge",
+        "ao_construct_explanation"
+      ],
+      "confidence": 0.95,
+      "justification": "Question directly addresses German reactions to the Treaty of Versailles, requiring explanation of multiple causes beyond the War Guilt Clause."
+    },
+    {
+      "question_id": "Q4",
+      "content_units": [
+        "unit_wwii_asia_pacific_outbreak"
+      ],
+      "assessment_objectives": [
+        "ao_deploy_knowledge",
+        "ao_construct_explanation"
+      ],
+      "confidence": 0.95,
+      "justification": "Question directly addresses causes of WWII in Asia-Pacific, requiring explanation and evaluation of US-Japan relations and other factors."
+    }
+  ],
+  "weightage_units": [
+    {
+      "id": "unit_wwii_europe_outbreak",
+      "name": "Key Developments Leading to WWII in Europe",
+      "marks": 18.0,
+      "pct": 25.7
+    },
+    {
+      "id": "unit_dutch_indonesia_1870s_1920s",
+      "name": "Dutch Indonesia, 1870s\u20131920s",
+      "marks": 10.0,
+      "pct": 14.3
+    },
+    {
+      "id": "unit_french_vietnam_1870s_1920s",
+      "name": "French Vietnam, 1870s\u20131920s",
+      "marks": 10.0,
+      "pct": 14.3
+    },
+    {
+      "id": "unit_paris_peace_conference",
+      "name": "Paris Peace Conference and Post-WWI Europe",
+      "marks": 10.0,
+      "pct": 14.3
+    },
+    {
+      "id": "unit_wwii_asia_pacific_outbreak",
+      "name": "Key Developments Leading to WWII in the Asia-Pacific",
+      "marks": 10.0,
+      "pct": 14.3
+    },
+    {
+      "id": "unit_nazi_germany",
+      "name": "Case Study of Nazi Germany",
+      "marks": 6.0,
+      "pct": 8.6
+    },
+    {
+      "id": "unit_cold_war_origins_europe",
+      "name": "Origins and Development of the Cold War in Europe",
+      "marks": 6.0,
+      "pct": 8.6
+    }
+  ],
+  "weightage_aos": [
+    {
+      "id": "ao_source_interpretation_evaluation",
+      "name": "Interpret and Evaluate Source Materials",
+      "marks": 24.7,
+      "pct": 35.2
+    },
+    {
+      "id": "ao_deploy_knowledge",
+      "name": "Deploy Knowledge",
+      "marks": 22.7,
+      "pct": 32.4
+    },
+    {
+      "id": "ao_construct_explanation",
+      "name": "Construct Explanation and Communicate Historical Knowledge",
+      "marks": 22.7,
+      "pct": 32.4
+    }
+  ]
+}
